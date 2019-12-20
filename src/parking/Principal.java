@@ -31,7 +31,7 @@ public class Principal {
                     artesano.entrada();
                     break;
                 case 2:
-                    //artesano.salida();
+                    artesano.salida();
                     break;
                 case 3:
                     artesano.estadoParking();
